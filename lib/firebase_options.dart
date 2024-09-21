@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCtldHJ0HWeEJRRBOHc-mfwbR5LBs1DNe4',
+    apiKey: '',
     appId: '1:141729162562:web:6fc5bab7d4e03dea4114db',
     messagingSenderId: '141729162562',
     projectId: 'hotelio-5cd49',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDQ7Dk-DfIYlLESH78GPOwYNKR_f8OksNE',
+    apiKey: '',
     appId: '1:141729162562:android:95893777d6b8d86e4114db',
     messagingSenderId: '141729162562',
     projectId: 'hotelio-5cd49',
